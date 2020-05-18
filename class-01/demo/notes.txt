@@ -1,0 +1,6 @@
+Create a site using github pages
+upload files to the website
+test changes before pushing them
+choose preset designs for the site
+Don't have not know HTML.
+Github is for creating pages is for sharing
