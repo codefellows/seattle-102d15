@@ -1,31 +1,16 @@
-# Programming with JavaScript
+## What do you know about HTML
+ - Tia - The content of the website
+ - Colleen - A way to structure content into smaller segments
+ - Chandler use opening and closing commands for the tags
+ - Amelia - Uses elements to descripbe the structure of the page.
+ - David - Bird Diagram HTML  CSS  JS
+    HTML - Gives your page content
+    CSS - Makes it pretty
+    JS - Makes it functional
 
-## Learning Objectives
+  - Always state what language you are using with the DOCTYPE
+  - Best practices change ```<br>``` is no longer used
+  - ```<body> </body>```
+  - Some tags that are self closing ```<img>```
 
-- Students will be able to create a script as a sequence of steps, executable by the computer, to achieve a stated goal.
-- Students will encapsulate code in functions, modeling steps in a process. 
-- Students will apply new techniques to existing code, increasing code clarity, without losing any functionality. 
-
-## Class Agenda
-
-- Review of previous class
-  - Share your learning
-- Programming - Input/Process/Output
-  - Robot Exercise
-  - Discussion Reading
-- Demo With JavaScript Functions
-  - Lab: Refactoring
-
-## New Vocabulary
-
-- Script
-- Programmatic problem solving
-- Expression
-- Operator
-- Function
-  - Declaration
-  - Call
-  - Parameters
-  - Arguments
-  - Return value
-- Refactoring
+  
