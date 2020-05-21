@@ -1,5 +1,10 @@
 'use strict'
 
+var rogerName = document.getElementById('roger');
+var h2element = document.createElement('h2');
+h2element.textContent = "Hello Roger.  Welcome to the Page";
+rogerName.appendChild(h2element);
+
 function askName() {
     var userName = prompt('Hello.  What is your name?');
     console.log(userName);
@@ -27,6 +32,9 @@ function likeOldComputers(oldComputerFromFunction){
     }
 }
 
+function writeName(userNameFromFunction){
+    document.write('<h3>' + userNameFromFunction + '</h3>');
+}
 
 // if (typeComputer === 'vic-20'){
     //     alert('Wow, that is really old');
@@ -35,5 +43,6 @@ function likeOldComputers(oldComputerFromFunction){
     var userNameFromFunction = askName();
     var oldComputerFromFunction = askOldComputer(userNameFromFunction);
     var typeOfComputerFromFunction = typeOfComputer();
-    likeOldComputers(oldComputerFromFunction)
+    // likeOldComputers(oldComputerFromFunction)
+    // writeName(userNameFromFunction)
     

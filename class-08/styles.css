@@ -1,0 +1,36 @@
+body {
+    background-color: bisque;
+}
+
+nav > ul > li {
+    display: inline;
+    border: solid 1px black;
+    margin: 50px;
+    padding: 10px;
+    background-color: #FF59b7;
+}
+
+#hero {
+    width: 600px;
+    height: 200px;
+    border: solid black 1px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+footer > ul > li {
+    display: inline;
+    border: solid 1px black;
+    margin: 50px;
+}
+
+
+
+/* make nav bar linear
+add a picture in 
+maybe put a border
+changing the font 
+background color  */
